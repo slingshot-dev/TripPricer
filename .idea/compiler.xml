@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="G.main" target="1.8" />
+      <module name="G.test" target="1.8" />
+      <module name="gps.main" target="1.8" />
+      <module name="gps.test" target="1.8" />
+      <module name="GPSUtil.main" target="1.8" />
+      <module name="GPSUtil.test" target="1.8" />
+      <module name="TourGuide.main" target="1.8" />
+      <module name="TourGuide.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
